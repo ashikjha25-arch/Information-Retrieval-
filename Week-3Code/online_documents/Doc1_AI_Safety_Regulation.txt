@@ -1,0 +1,5 @@
+Title: Amazon Calls for Rigorous Testing and Safeguards in AI Development
+Source: Reuters
+Date: 2026-09-17
+
+Amazon has entered the artificial intelligence safety debate, saying AI labs should ensure models are released only when they are safe and fully tested. The company stopped short of calling for an industry slowdown but emphasized the need for rigorous testing protocols and comprehensive safety safeguards before any AI model is deployed to the public. Amazon's stance adds another major voice to the growing conversation about responsible AI development and the need for industry-wide safety standards. The company highlighted that competitive pressure should not come at the expense of safety, and called for stronger internal testing procedures and independent evaluation of AI systems before they reach consumers.
